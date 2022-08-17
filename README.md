@@ -27,10 +27,10 @@ Talk to me about ML, Quantified-Self, Generative Models, Synthetic Data, Longevi
 
 <p align = "center">
   <a href="https://github.com/gianlucatruda">
-    <img src = "https://github-readme-stats.vercel.app/api?username=gianlucatruda&show_icons=true&theme=radical&line_height=27&include_all_commits=true">
+    <img src = "https://github-readme-stats.vercel.app/api?username=gianlucatruda&show_icons=true&theme=cobalt&title_color=white&line_height=27&include_all_commits=true">
   </a>
   <a href="https://github.com/gianlucatruda">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucatruda&theme=radical&layout=compact&langs_count=5&exclude_repo=quantified-sleep,">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucatruda&theme=cobalt&title_color=white&layout=compact&include_all_commits=true&langs_count=8&hide=css&exclude_repo=crypto-workshop,quantified-sleep">
   </a>
 </p>
 
