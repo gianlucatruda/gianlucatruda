@@ -15,25 +15,3 @@ Talk to me about ML, Quantified-Self, Generative Models, Synthetic Data, Longevi
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/QVagabond)
 [<img src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge" />](https://gianlucatruda.com/)
 [<img src="https://img.shields.io/badge/blog-%230077B5.svg?&style=for-the-badge" />](https://gianlucatruda.com/blog)
-
-### Recent work
-
-- For my MSc in Artificial Intelligence, [my thesis](https://gianlucatruda.com/blog/2021/07/08/thesis.html) examines methods for synthesising privatised healthcare data using GANs and autoencoders. 
-- My latest [Quantified-Self project](https://gianlucatruda.com/blog/2021/06/30/quantified-sleep.html) combined 15 months of my personal data to build a descriptive model of my sleep behaviour. 
-- Previously, I worked on using [Genetic Programming to evolve automated dosing models](https://www.sciencedirect.com/science/article/pii/S1532046420302628) for the anticoagulant Warfarin. 
-- I'm also creator and co-host of the [Bit of a Tangent](http://podtangent.com) podcast and the producer and narrator of the [Replacing Guilt audiobook](https://anchor.fm/guilt).
-
-### My Github Stats
-
-<p align = "center">
-  <a href="https://github.com/gianlucatruda">
-    <img src = "https://github-readme-stats.vercel.app/api?username=gianlucatruda&show_icons=true&theme=cobalt&title_color=white&line_height=27&include_all_commits=true&count_private=true">
-  </a>
-  <a href="https://github.com/gianlucatruda">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucatruda&theme=cobalt&title_color=white&layout=compact&include_all_commits=true&count_private=true&langs_count=8&hide=css&exclude_repo=crypto-workshop,quantified-sleep">
-  </a>
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gianlucatruda" alt="Gianluca Truda" /> </p>
-
-
