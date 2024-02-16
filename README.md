@@ -1,6 +1,8 @@
 ## Hello World, I'm Gianluca
 
 A startup founder and AI engineer on a journey to strengthen myself, defy Nature, and enjoy the ride.
+
+Read more at [gianluca.ai/about](https://gianluca.ai/about)
  
 ### Let's connect
 
