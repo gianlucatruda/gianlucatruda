@@ -2,7 +2,7 @@
 
 _Become Stronger. Defy Nature. Have Fun._
 
-AI Engineer turned startup founder. Read more at [gianluca.ai/about](https://gianluca.ai/about)
+ML Engineer turned startup founder. Read more at [gianluca.ai/about](https://gianluca.ai/about)
  
 ### Let's connect
 
